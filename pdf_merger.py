@@ -68,6 +68,7 @@ def merge_groups_of_pdfs(path):
             merger.append(path + file_names[-1])
             merger.write(file_names[-1].rsplit(".")[-2].rsplit("_", 1)[-2] + ".pdf")
             merger.close()
+    print("Finished merging pdfs!")
 
 
 def check_if_consecutive_number(str1, str2):
