@@ -19,6 +19,8 @@
 
   * We have few groups of pdf documents. Every group has the same prefix (before `_`) and differs only with number after `_`,  
 
+  * Every group is outlined in the separate rectangle,  
+
   * Some documents are single documents - they don't have any number, or they have unique name and single number after `_`,  
 
   * The `pdfs` directory contains all the documents, and this name is hardcoded in the last line of the script,  
