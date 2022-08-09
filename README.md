@@ -15,6 +15,7 @@
 
 #### :arrow_right: Basic usage
   * Starting content of 'pdfs' directory:  
+
     ![mp1](screenshots/mp1.png)
 
   * We have few groups of pdf documents. Every group has the same prefix (before `_`) and differs only with number after `_`,  
@@ -28,6 +29,7 @@
   * To run a script simply type:  `python3 pdf_merger.py` (or `python pdf_merger.py` depending on your OS),  
 
   * Final content of the working directory:  
+
     ![mp2](screenshots/mp2.png)  
 
   * Interpretation of the final content:
