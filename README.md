@@ -27,7 +27,7 @@
 
   * To run a script simply type:  `python3 pdf_merger.py` (or `python pdf_merger.py` depending on your OS),  
 
-  * Final content of working directory:  
+  * Final content of the working directory:  
     ![mp2](screenshots/mp2.png)  
 
   * Interpretation of the final content:
