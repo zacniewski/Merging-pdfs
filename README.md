@@ -11,6 +11,7 @@
 
 #### :arrow_right: Basic usage
   * starting content of working directory:  
+![mp1](screenshots/mp1.png)
 
   * dfdfdfdf:  
 
