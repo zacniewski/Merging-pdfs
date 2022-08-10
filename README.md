@@ -34,7 +34,7 @@
 
   * Interpretation of the final content:
       * all documents from given group are merged into one document,  
-      * single document with `_` and the number before `.pdf` is also available in the output,  
+      * single document (was named with `_` inside and had the number before `.pdf`) is also available in the output,  
       * documents without `_` in their names weren't merged and aren't available in the output,  
       * all output documents have the name of the group, without `_` and without number.
   
